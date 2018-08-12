@@ -1,4 +1,4 @@
-package com.shirren.blockchain;
+package com.shirren.blockchain.exceptions;
 
 /**
  * <p>We throw this error if a block is invalid.</p>

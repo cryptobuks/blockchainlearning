@@ -1,5 +1,8 @@
 package com.shirren.blockchain;
 
+import com.shirren.blockchain.exceptions.BlockChainTamperedException;
+import com.shirren.blockchain.exceptions.InvalidBlockException;
+
 import java.util.ArrayList;
 import java.util.List;
 

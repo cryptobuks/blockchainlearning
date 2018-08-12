@@ -1,5 +1,7 @@
 package com.shirren.blockchain;
 
+import com.shirren.blockchain.exceptions.InvalidTransactionListException;
+
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 import java.util.List;

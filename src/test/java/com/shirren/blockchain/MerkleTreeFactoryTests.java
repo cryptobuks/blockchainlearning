@@ -1,5 +1,6 @@
 package com.shirren.blockchain;
 
+import com.shirren.blockchain.exceptions.InvalidTransactionListException;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
